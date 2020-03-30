@@ -1,5 +1,2 @@
 # TheXPersonal
-Helllo
-
-Wjlkdsadsa
-
+We are groots
