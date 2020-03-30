@@ -7,7 +7,7 @@ IceToGas | 120% | 130% | 150% |-
 IceConsumption
 
 
-Action | Tier 1 
+Action | Tier 1 | Tier 2
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Content from cell 1 | Content from cell 2 | Blbal
+Content in the first column | Content in the second column | Blbal
