@@ -8,6 +8,6 @@ IceConsumption
 
 
 Action | Tier 1 | Tier 2
------------- | -------------
+------------ | ------------- | -------------
 Content from cell 1 | Content from cell 2 | Blbal
 Content in the first column | Content in the second column | Blbal
