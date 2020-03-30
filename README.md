@@ -9,4 +9,8 @@ IceConsumption | 120% | 140% | 160%
 
 
 
+<h3> Ore Detector  </h3>
 
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Range | 400% | 600% | 800%
