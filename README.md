@@ -1,7 +1,8 @@
 # TheXPersonal
 
-<h1> This is an tag #1 </h1>
+<h3> This is an tag #2 </h3>
 
-Wlcůlaskjc
-
-<h2> This is an tag #2 </h2>
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
