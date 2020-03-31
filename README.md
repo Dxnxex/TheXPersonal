@@ -38,8 +38,8 @@ Inventory | 150% | 200% | 2%
 Power consumption (Increase) | 150% | 200% | 250%
 
 <h3> Basic Refinery  </h3>
-(Due to the unavailability of each ore refining, the basic refinery is boosted than the advanced.)
-(Basic refinery can´t be moduled so, that another reason why is it boosted than advanced).
+<br>(Due to the unavailability of each ore refining, the basic refinery is boosted than the advanced.)
+<br> (Basic refinery can´t be moduled so, that another reason why is it boosted than advanced).
 
 Action | Tier 1 | Tier 2 | Tier 3
 ------------ | ------------- | ------------- | -------------
