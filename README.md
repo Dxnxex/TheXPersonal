@@ -87,3 +87,28 @@ Action | Tier 1 | Tier 2 | Tier 3
 ------------ | ------------- | ------------- | -------------
 Space | 140% | 180% | 220%
 
+
+<h3> Atmosferic thrusters  </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Force | 200% | 300% | 400%
+Power consumption (Increase) | 175% | 250% | 325%
+
+<h3> Hydrogen thrusters  </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Force | 150% | 200% | 250%
+Power consumption (Increase) | 125% | 150% | 175%
+
+<h3> Ion thrusters  </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Force | 250% | 400% | 550%
+Power consumption (Increase) | 150% | 200% | 250%
+
