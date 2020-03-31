@@ -1,6 +1,6 @@
 # TheXPersonal
-
-Mod what brings you tiered blocks to your game. Make things faster or more efficent than normal vanilla block, but for bigger component price, build times, power consumption, etc...
+Updated 31.03.2020
+<br> Mod what brings you tiered blocks to your game. Make things faster or more efficent than normal vanilla block, but for bigger component price, build times, power consumption, etc...
 
 <h3> O2/H2 Generator </h3>
 Applies for both small and large block.
@@ -29,7 +29,7 @@ Range | 300% | 500% | 700%
 
 <h3> Basic Assembler  </h3>
 (Due to the unavailability to craft every component, basic assembler is more boosted than advanced one.)
-(Basic assembler can´t be moduled so, that another reason why is it boosted than advanced).
+<br> (Basic assembler can´t be moduled so, that another reason why is it boosted than advanced).
 
 Action | Tier 1 | Tier 2 | Tier 3
 ------------ | ------------- | ------------- | -------------
@@ -38,7 +38,7 @@ Inventory | 150% | 200% | 2%
 Power consumption (Increase) | 150% | 200% | 250%
 
 <h3> Basic Refinery  </h3>
-<br>(Due to the unavailability of each ore refining, the basic refinery is boosted than the advanced.)
+Due to the unavailability of each ore refining, the basic refinery is boosted than the advanced.)
 <br> (Basic refinery can´t be moduled so, that another reason why is it boosted than advanced).
 
 Action | Tier 1 | Tier 2 | Tier 3
@@ -64,4 +64,26 @@ Speed | 125% | 150% | 175%
 Inventory | 110% | 120% | 130%
 Effiency | 150% | 200% | 250%
 Power consumption (Increase) | 150% | 200% | 250%
+
+
+<h3> Drill  </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Drill radius | 125% | 150% | 175%
+
+<h3> Hydrogen Tank  </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Space | 140% | 180% | 220%
+
+<h3> Oxygen Tank  </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Space | 140% | 180% | 220%
 
