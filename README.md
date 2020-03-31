@@ -28,10 +28,40 @@ Action | Tier 1 | Tier 2 | Tier 3
 Range | 300% | 500% | 700%
 
 <h3> Basic Assembler  </h3>
-(Due to not availabilty to craft every component, basic assembler is more boosted than advanced one.)
+(Due to the unavailability to craft every component, basic assembler is more boosted than advanced one.)
+(Basic assembler can´t be moduled so, that another reason why is it boosted than advanced).
 
 Action | Tier 1 | Tier 2 | Tier 3
 ------------ | ------------- | ------------- | -------------
 Speed | 225% | 350% | 475%
 Inventory | 150% | 200% | 2%
 Power consumption (Increase) | 150% | 200% | 250%
+
+<h3> Basic Refinery  </h3>
+(Due to the unavailability of each ore refining, the basic refinery is boosted than the advanced.)
+(Basic refinery can´t be moduled so, that another reason why is it boosted than advanced).
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Speed | 240% | 370% | 500%
+Inventory | 125% | 150% | 175%
+Effiency | 175% | 250% | 325%
+Power consumption (Increase) | 150% | 200% | 250%
+
+<h3> Advanced Assembler  </h3>
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Speed | 140% | 180% | 220%
+Inventory | 125% | 150% | 175%
+Power consumption (Increase) | 150% | 200% | 250%
+
+<h3> Advanced Refinery  </h3>
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Speed | 125% | 150% | 175%
+Inventory | 110% | 120% | 130%
+Effiency | 150% | 200% | 250%
+Power consumption (Increase) | 150% | 200% | 250%
+
