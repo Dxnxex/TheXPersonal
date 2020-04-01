@@ -37,6 +37,7 @@ Action | Tier 1 | Tier 2 | Tier 3
 Speed | 240% | 370% | 500%
 Inventory | 125% | 150% | 175%
 Effiency | 175% | 250% | 325%
+OrePull | 200% | 300% | 400%
 Power consumption (Increase) | 150% | 200% | 250%
 
 <h3> Advanced Assembler  </h3>
@@ -54,6 +55,7 @@ Action | Tier 1 | Tier 2 | Tier 3
 Speed | 125% | 150% | 175%
 Inventory | 110% | 120% | 130%
 Effiency | 150% | 200% | 250%
+OrePull | 200% | 300% | 400%
 Power consumption (Increase) | 150% | 200% | 250%
 
 
