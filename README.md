@@ -105,3 +105,12 @@ Action | Tier 1 | Tier 2 | Tier 3
 Force | 250% | 400% | 550%
 Power consumption (Increase) | 150% | 200% | 250%
 
+<h3> Battery & Small battery</h3>
+Applies for both small and large block. (Small battery only small)
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+MaxOutput | 150% | 200% | 250%
+MaxInput | 175% | 250% | 325%
+MaxStorage | 150% | 200% | 250%
+
