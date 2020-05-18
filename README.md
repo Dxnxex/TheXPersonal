@@ -114,3 +114,12 @@ MaxOutput | 150% | 200% | 250%
 MaxInput | 175% | 250% | 325%
 MaxStorage | 150% | 200% | 250%
 
+
+<h3> Antenna</h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3
+------------ | ------------- | ------------- | -------------
+Range | 400% | 700% | 1000%
+Power consumption (Increase) | 150% | 200% | 250%
+
