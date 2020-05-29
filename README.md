@@ -123,3 +123,14 @@ Action | Tier 1 | Tier 2 | Tier 3
 Range | 400% | 700% | 1000%
 Power consumption (Increase) | 150% | 200% | 250%
 
+<h3> Dural Armor </h3>
+LARGE BLOCK ONLY
+NOT Durable, but ultra lightweight and cheap.
+
+<h3> Titan Armor </h3>
+LARGE BLOCK ONLY
+Very durable, lightweight, but expensive.
+
+<h3> Xanril Armor </h3>
+LARGE BLOCK ONLY
+Ultra durable, ultra heavyweight, normal price.
