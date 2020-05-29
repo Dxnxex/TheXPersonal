@@ -125,12 +125,15 @@ Power consumption (Increase) | 150% | 200% | 250%
 
 <h3> Dural Armor </h3>
 LARGE BLOCK ONLY <br>
-NOT Durable, but ultra lightweight and cheap.
+NOT Durable, but ultra lightweight and cheap. <br>
+Good for not offensive types of ships or for very agile ships.
 
 <h3> Titan Armor </h3>
 LARGE BLOCK ONLY <br>
-Very durable, lightweight, but expensive.
+Very durable, lightweight, but expensive. <br>
+Good for everything, but you will pay material for that.
 
 <h3> Xanril Armor </h3>
 LARGE BLOCK ONLY <br>
-Ultra durable, ultra heavyweight, normal price.
+Ultra durable, ultra heavyweight, normal price. <br>
+Good for bases, because of weight of block you can´t take off, like with other blocks.
