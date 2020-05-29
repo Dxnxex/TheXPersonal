@@ -1,5 +1,5 @@
 # TheXPersonal
-Updated 31.03.2020
+Updated 29.05.2020
 <br> Mod what brings you tiered blocks to your game. Make things faster or more efficent than normal vanilla block, but for bigger component price, build times, power consumption, etc...
 
 <h3> O2/H2 Generator </h3>
@@ -136,4 +136,4 @@ Good for everything, but you will pay material for that.
 <h3> Xanril Armor </h3>
 LARGE BLOCK ONLY <br>
 Ultra durable, ultra heavyweight, normal price. <br>
-Good for bases, because of weight of block you can´t take off, like with other blocks.
+Good for bases, because of weight of block you can´t take off easily, like with other blocks.
