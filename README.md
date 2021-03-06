@@ -7,8 +7,8 @@ Applies for both small and large block.
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-IceToGas | 150% | 200% | 250%
-IceConsumption | 120% | 140% | 160%
+IceToGas | 150% | 200% | 250% | 350%
+IceConsumption | 120% | 140% | 160% | 200%
 
 
 <h3> Ore Detector  </h3>
@@ -16,7 +16,7 @@ Applies for both small and large block.
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Range | 300% | 500% | 700%
+Range | 300% | 500% | 700% | 1100%
 
 <h3> Basic Assembler  </h3>
 (Due to the unavailability to craft every component, basic assembler is more boosted than advanced one.)
@@ -24,9 +24,9 @@ Range | 300% | 500% | 700%
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Speed | 225% | 350% | 475%
-Inventory | 150% | 200% | 250%
-Power consumption (Increase) | 150% | 200% | 250%
+Speed | 225% | 350% | 475% | 725%
+Inventory | 150% | 200% | 250% | 350%
+Power consumption (Increase) | 150% | 200% | 250% | 350%
 
 <h3> Basic Refinery  </h3>
 Due to the unavailability of each ore refining, the basic refinery is boosted than the advanced.)
@@ -34,51 +34,50 @@ Due to the unavailability of each ore refining, the basic refinery is boosted th
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Speed | 240% | 370% | 500%
-Inventory | 125% | 150% | 175%
-Effiency | 175% | 250% | 325%
-OrePull | 200% | 300% | 400%
-Power consumption (Increase) | 150% | 200% | 250%
+Speed | 240% | 370% | 500% | 800%
+Inventory | 125% | 150% | 175% | 225%
+Effiency | 175% | 250% | 325% | 475%
+Power consumption (Increase) | 150% | 200% | 250% | 350%
+OrePull | 200% | 300% | 400% | 600%
 
 <h3> Advanced Assembler  </h3>
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Speed | 140% | 180% | 220%
-Inventory | 125% | 150% | 175%
-Power consumption (Increase) | 150% | 200% | 250%
+Speed | 140% | 180% | 220% | 300%
+Inventory | 125% | 150% | 175% | 225%
+Power consumption (Increase) | 150% | 200% | 250% | 350%
 
 <h3> Advanced Refinery  </h3>
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Speed | 125% | 150% | 175%
-Inventory | 110% | 120% | 130%
-Effiency | 150% | 200% | 250%
-OrePull | 200% | 300% | 400%
-Power consumption (Increase) | 150% | 200% | 250%
-
+Speed | 125% | 150% | 175% | 225%
+Inventory | 110% | 120% | 130% | 150%
+Effiency | 150% | 200% | 250% | 350%
+Power consumption (Increase) | 150% | 200% | 250% | 350%
+OrePull | 200% | 300% | 400% | 600%
 
 <h3> Drill  </h3>
 Applies for both small and large block.
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Drill radius | 125% | 150% | 175%
+Drill radius | 125% | 150% | 175% | 225%
 
 <h3> Hydrogen Tank  </h3>
 Applies for both small and large block.
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Space | 140% | 180% | 220%
+Space | 140% | 180% | 220% | 300%
 
 <h3> Oxygen Tank  </h3>
 Applies for both small and large block.
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Space | 140% | 180% | 220%
+Space | 140% | 180% | 220% | 300%
 
 
 <h3> Atmosferic thrusters  </h3>
@@ -86,33 +85,33 @@ Applies for both small and large block.
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Force | 200% | 300% | 400%
-Power consumption (Increase) | 175% | 250% | 325%
+Force | 250% | 400% | 550% | 850%
+Power consumption (Increase) | 175% | 250% | 325% | 475%
 
 <h3> Hydrogen thrusters  </h3>
 Applies for both small and large block.
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Force | 150% | 200% | 250%
-Power consumption (Increase) | 125% | 150% | 175%
+Force | 225% | 350% | 475% | 725%
+Power consumption (Increase) | 125% | 150% | 175% | 225%
 
 <h3> Ion thrusters  </h3>
 Applies for both small and large block.
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Force | 250% | 400% | 550%
-Power consumption (Increase) | 150% | 200% | 250%
+Force | 275% | 450% | 625% | 975%
+Power consumption (Increase) | 150% | 200% | 250% | 350%
 
 <h3> Battery & Small battery</h3>
 Applies for both small and large block. (Small battery only small)
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-MaxOutput | 150% | 200% | 250%
-MaxInput | 175% | 250% | 325%
-MaxStorage | 150% | 200% | 250%
+MaxOutput | 150% | 200% | 250% | 350%
+MaxInput | 175% | 250% | 325% | 475%
+MaxStorage | 150% | 200% | 250% | 350%
 
 
 <h3> Antenna</h3>
@@ -120,8 +119,8 @@ Applies for both small and large block.
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Range | 400% | 700% | 1000%
-Power consumption (Increase) | 150% | 200% | 250%
+Range | 280% | 460% | 640% | 1000%
+Power consumption (Increase) | 150% | 200% | 250% | 350%
 
 <h3> Dural Armor </h3>
 NOT Durable, but ultra lightweight and cheap. <br>
