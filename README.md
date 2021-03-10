@@ -7,8 +7,8 @@ Applies for both small and large block.
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-IceToGas | 150% | 200% | 250% | 350%
-IceConsumption | 120% | 140% | 160% | 200%
+IceToGas | 170% | 240% | 310% | 450%
+IceConsumption | 140% | 180% | 220% | 300%
 
 
 <h3> Ore Detector  </h3>
@@ -46,16 +46,16 @@ Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
 Speed | 140% | 180% | 220% | 300%
 Inventory | 125% | 150% | 175% | 225%
-Power consumption (Increase) | 150% | 200% | 250% | 350%
+Power consumption (Increase) | 250% | 400% | 550% | 850%
 
 <h3> Advanced Refinery  </h3>
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-Speed | 125% | 150% | 175% | 225%
-Inventory | 110% | 120% | 130% | 150%
+Speed | 175% | 250% | 325% | 475%
+Inventory | 150% | 200% | 250% | 350%
 Effiency | 150% | 200% | 250% | 350%
-Power consumption (Increase) | 150% | 200% | 250% | 350%
+Power consumption (Increase) | 250% | 400% | 550% | 850%
 OrePull | 200% | 300% | 400% | 600%
 
 <h3> Drill  </h3>
