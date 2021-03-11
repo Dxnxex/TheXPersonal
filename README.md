@@ -122,6 +122,13 @@ Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 Range | 280% | 460% | 640% | 1000%
 Power consumption (Increase) | 150% | 200% | 250% | 350%
 
+<h3> Cargo Storages</h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
+------------ | ------------- | ------------- | ------------- | -------------
+Range | 110% | 120% | 130% | 150%
+
 <h3> Dural Armor </h3>
 NOT Durable, but ultra lightweight and cheap. <br>
 Good for not offensive types of ships or for very agile ships.
