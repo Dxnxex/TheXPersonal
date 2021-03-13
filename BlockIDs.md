@@ -8,7 +8,7 @@ Example: (Sandbox_config.sbc)
  <dictionary>
    <item>
     <Key>LargeBlockRadioAntenna_XT2</Key>
-   <Value>4</Value>
+    <Value>4</Value>
   </item>
  </dictionary>
 </BlockTypeLimits>
