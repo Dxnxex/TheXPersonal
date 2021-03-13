@@ -2,6 +2,18 @@
 Updated 13.03.2021
 <br> This is list of IDs for you server blocks limits. (Do not contain armor blocks)
 
+Example: (Sandbox_config.sbc)
+<br> <BlockTypeLimits>
+<br>       <dictionary>
+<br>         <item>
+<br>           <Key>LargeBlockRadioAntenna_XT2</Key>
+<br>           <Value>4</Value>
+<br>        </item>
+<br>       </dictionary>
+<br> </BlockTypeLimits>
+<br> This will limit TIER 2 Large Block Antenta to 4 blocks per player
+
+
 <br> LargeAssembler_XT1
 <br> LargeAssembler_XT2
 <br> LargeAssembler_XT3
