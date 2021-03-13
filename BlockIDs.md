@@ -3,6 +3,7 @@ Updated 13.03.2021
 <br> This is list of IDs for you server blocks limits. (Do not contain armor blocks)
 
 Example: (Sandbox_config.sbc)
+```
 <BlockTypeLimits>
  <dictionary>
    <item>
@@ -11,6 +12,7 @@ Example: (Sandbox_config.sbc)
   </item>
  </dictionary>
 </BlockTypeLimits>
+```
 <br> This will limit TIER 2 Large Block Antenta to 4 blocks per player
 
 
