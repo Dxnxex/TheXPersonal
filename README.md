@@ -129,14 +129,41 @@ Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
 Capacity | 110% | 120% | 130% | 150%
 
+
+
+
 <h3> Dural Armor </h3>
-NOT Durable, but ultra lightweight and cheap. <br>
-Good for not offensive types of ships or for very agile ships.
+Very lightweight armor with very little durability, good for non combat ships.
+*1 Dural plate in production make you 15 Dural plates*
+
+-Price 1/10
+-Weight 1/10
+-Durability 1/10
+-Availabilty 1/10
 
 <h3> Titan Armor </h3>
-Very durable, lightweight, but expensive. <br>
-Good for everything, but you will pay material for that.
+Very lightweight armor for with super durability, good for everything.
+*1 Titan plate in production make you 10 Titan plates*
+
+-Price 7/10
+-Weight 2/10
+-Durability 7/10
+-Availabilty 5/10
 
 <h3> Xanril Armor </h3>
-Ultra durable, ultra heavyweight, normal price. <br>
-Good for bases, because of weight of block you can´t take off easily, like with other blocks.
+Very heavyweight armor for with ultra durability, good for stations-
+
+*1 Xanril plate in production make you 5 Xanril plates*
+-Price 4/10
+-Weight 10/10
+-Durability 10/10
+-Availabilty 7/10
+
+<h3> Charon Armor </h3>
+Lightweight armor for with ultra durability, good for everything.
+*1 Charon plate in production make you 5 Charon plates*
+
+-Price 8/10
+-Weight 4/10
+-Durability 8/10
+-Availabilty 2/10
