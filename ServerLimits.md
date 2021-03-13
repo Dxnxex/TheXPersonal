@@ -1,0 +1,38 @@
+# TheXPersonal
+Updated 13.03.2021
+<br> This is list of IDs for you server blocks limits.
+
+LargeAssembler_XT1
+LargeAssembler_XT2
+LargeAssembler_XT3
+LargeAssembler_XT4
+
+LargeRefinery_XT1
+LargeRefinery_XT2
+LargeRefinery_XT3
+LargeRefinery_XT4
+
+BasicAssembler_XT1
+BasicAssembler_XT2
+BasicAssembler_XT3
+BasicAssembler_XT4
+
+BlastFurnace_XT1
+BlastFurnace_XT2
+BlastFurnace_XT3
+BlastFurnace_XT4
+
+OxygenGenerator_XT1
+OxygenGenerator_XT2
+OxygenGenerator_XT3
+OxygenGenerator_XT4
+
+LargeBlockRadioAntenna_XT1
+LargeBlockRadioAntenna_XT2
+LargeBlockRadioAntenna_XT3
+LargeBlockRadioAntenna_XT4
+
+SmallBlockRadioAntenna_XT1
+SmallBlockRadioAntenna_XT2
+SmallBlockRadioAntenna_XT3
+SmallBlockRadioAntenna_XT4
