@@ -3,8 +3,8 @@ Updated 13.03.2021
 <br> This is list of IDs for you server blocks limits. (Do not contain armor blocks)
 
 Example: (Sandbox_config.sbc)
-<br> "<BlockTypeLimits>"
-<br>       <dictionary>
+<BlockTypeLimits>
+       <dictionary>
 <br>         <item>
 <br>           <Key>LargeBlockRadioAntenna_XT2</Key>
 <br>           <Value>4</Value>
