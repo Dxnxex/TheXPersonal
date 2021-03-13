@@ -133,8 +133,8 @@ Capacity | 110% | 120% | 130% | 150%
 
 
 <h3> Dural Armor </h3>
-Very lightweight armor with very little durability, good for non combat ships.
-*1 Dural plate in production make you 15 Dural plates*
+<br> Very lightweight armor with very little durability, good for non combat ships.
+<br> *1 Dural plate in production make you 15 Dural plates*
 
 -Price 1/10
 -Weight 1/10
@@ -142,8 +142,8 @@ Very lightweight armor with very little durability, good for non combat ships.
 -Availabilty 1/10
 
 <h3> Titan Armor </h3>
-Very lightweight armor for with super durability, good for everything.
-*1 Titan plate in production make you 10 Titan plates*
+<br> Very lightweight armor for with super durability, good for everything.
+<br> *1 Titan plate in production make you 10 Titan plates*
 
 -Price 7/10
 -Weight 2/10
@@ -151,8 +151,8 @@ Very lightweight armor for with super durability, good for everything.
 -Availabilty 5/10
 
 <h3> Xanril Armor </h3>
-Very heavyweight armor for with ultra durability, good for stations.
-*1 Xanril plate in production make you 5 Xanril plates*
+<br> Very heavyweight armor for with ultra durability, good for stations.
+<br> *1 Xanril plate in production make you 5 Xanril plates*
 
 -Price 4/10
 -Weight 10/10
@@ -160,8 +160,8 @@ Very heavyweight armor for with ultra durability, good for stations.
 -Availabilty 7/10
 
 <h3> Charon Armor </h3>
-Lightweight armor for with ultra durability, good for everything.
-*1 Charon plate in production make you 5 Charon plates*
+<br> Lightweight armor for with ultra durability, good for everything.
+<br> *1 Charon plate in production make you 5 Charon plates*
 
 -Price 8/10
 -Weight 4/10
