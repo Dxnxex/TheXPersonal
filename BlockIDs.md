@@ -4,13 +4,13 @@ Updated 13.03.2021
 
 Example: (Sandbox_config.sbc)
 <BlockTypeLimits>
-       <dictionary>
-<br>         <item>
-<br>           <Key>LargeBlockRadioAntenna_XT2</Key>
-<br>           <Value>4</Value>
-<br>        </item>
-<br>       </dictionary>
-<br> </BlockTypeLimits>
+ <dictionary>
+   <item>
+    <Key>LargeBlockRadioAntenna_XT2</Key>
+   <Value>4</Value>
+  </item>
+ </dictionary>
+</BlockTypeLimits>
 <br> This will limit TIER 2 Large Block Antenta to 4 blocks per player
 
 
