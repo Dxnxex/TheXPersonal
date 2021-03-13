@@ -151,9 +151,9 @@ Very lightweight armor for with super durability, good for everything.
 -Availabilty 5/10
 
 <h3> Xanril Armor </h3>
-Very heavyweight armor for with ultra durability, good for stations-
-
+Very heavyweight armor for with ultra durability, good for stations.
 *1 Xanril plate in production make you 5 Xanril plates*
+
 -Price 4/10
 -Weight 10/10
 -Durability 10/10
