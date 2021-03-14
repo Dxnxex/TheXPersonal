@@ -1,6 +1,6 @@
 # TheXPersonal
 Updated 13.03.2021
-<br> This is list of IDs for you server blocks limits. (Do not contain armor blocks)
+<br> This is list of IDs for your blocks limits. (Do not contain armor blocks)
 
 Example: (Sandbox_config.sbc)
 ```
@@ -200,3 +200,5 @@ Example: (Sandbox_config.sbc)
 <br> LargeBlockLargeThrust_T2
 <br> LargeBlockLargeThrust_T3
 <br> LargeBlockLargeThrust_T4
+
+<br> IceCleaner_XP
