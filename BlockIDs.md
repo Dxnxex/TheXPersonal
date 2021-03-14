@@ -1,5 +1,5 @@
 # TheXPersonal
-Updated 13.03.2021
+Updated 14.03.2021
 <br> This is list of IDs for your blocks limits. (Do not contain armor blocks)
 
 Example: (Sandbox_config.sbc)
