@@ -137,7 +137,7 @@ Very lightweight armor with very little durability, good for non combat ships.
 
 *1 Dural plate in production make you 15 Dural plates*
 
-* Price 1/10
+* Price 10/10
 * Weight 1/10
 * Durability 1/10
 * Availabilty 1/10
