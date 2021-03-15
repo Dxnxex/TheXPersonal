@@ -137,10 +137,10 @@ Very lightweight armor with very little durability, good for non combat ships.
 
 *1 Dural plate in production make you 15 Dural plates*
 
-* Price 10/10
+* Price 1/10
 * Weight 1/10
 * Durability 1/10
-* Availabilty 1/10
+* Availabilty 10/10
 
 <h3> Titan Armor </h3>
 Very lightweight armor for with super durability, good for everything.
