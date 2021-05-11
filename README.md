@@ -129,7 +129,26 @@ Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
 Capacity | 110% | 120% | 130% | 150%
 
+<h3> Solar Panels </h3>
+Applies for both small and large block.
 
+Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
+------------ | ------------- | ------------- | ------------- | -------------
+MaxOutput | 200% | 300% | 400% | 600%
+
+<h3> Small Reactor </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
+------------ | ------------- | ------------- | ------------- | -------------
+MaxOutput | 150% | 200% | 250% | 350%
+
+<h3> Large Reactor </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
+------------ | ------------- | ------------- | ------------- | -------------
+MaxOutput | 130% | 160% | 190% | 250%
 
 
 <h3> Dural Armor </h3>
@@ -143,7 +162,7 @@ Very lightweight armor with very little durability, good for non combat ships.
 * Availabilty 10/10
 
 <h3> Titan Armor </h3>
-Very lightweight armor for with super durability, good for everything.
+Very lightweight armor with super durability, good for everything.
 
 *1 Titan plate in production make you 10 Titan plates*
 
@@ -153,7 +172,7 @@ Very lightweight armor for with super durability, good for everything.
 * Availabilty 5/10
 
 <h3> Xanril Armor </h3>
-Very heavyweight armor for with ultra durability, good for stations.
+Very heavyweight armor with ultra durability, good for stations.
 
 *1 Xanril plate in production make you 5 Xanril plates*
 
@@ -163,7 +182,7 @@ Very heavyweight armor for with ultra durability, good for stations.
 * Availabilty 7/10
 
 <h3> Charon Armor </h3>
-Lightweight armor for with ultra durability, good for everything.
+Lightweight armor with ultra durability, good for everything.
 
 *1 Charon plate in production make you 5 Charon plates*
 
