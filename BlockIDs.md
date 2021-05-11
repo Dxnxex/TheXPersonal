@@ -1,5 +1,5 @@
 # TheXPersonal
-Updated 14.03.2021
+Updated 11.5.2021
 <br> This is list of IDs for your blocks limits. (Do not contain armor blocks)
 
 Example: (Sandbox_config.sbc)
@@ -202,3 +202,33 @@ Example: (Sandbox_config.sbc)
 <br> LargeBlockLargeThrust_T4
 
 <br> IceCleaner_XP
+
+<br> LargeBlockSolarPanel_XT1
+<br> LargeBlockSolarPanel_XT2
+<br> LargeBlockSolarPanel_XT3
+<br> LargeBlockSolarPanel_XT4
+
+<br> SmallBlockSolarPanel_XT1
+<br> SmallBlockSolarPanel_XT2
+<br> SmallBlockSolarPanel_XT3
+<br> SmallBlockSolarPanel_XT4
+
+<br> LargeBlockSmallGenerator_XT1
+<br> LargeBlockSmallGenerator_XT2
+<br> LargeBlockSmallGenerator_XT3
+<br> LargeBlockSmallGenerator_XT4
+
+<br> SmallBlockSmallGenerator_XT1
+<br> SmallBlockSmallGenerator_XT2
+<br> SmallBlockSmallGenerator_XT3
+<br> SmallBlockSmallGenerator_XT4
+
+<br> LargeBlockLargeGenerator_XT1
+<br> LargeBlockLargeGenerator_XT2
+<br> LargeBlockLargeGenerator_XT3
+<br> LargeBlockLargeGenerator_XT4
+
+<br> SmallBlockLargeGenerator_XT1
+<br> SmallBlockLargeGenerator_XT2
+<br> SmallBlockLargeGenerator_XT3
+<br> SmallBlockLargeGenerator_XT4
