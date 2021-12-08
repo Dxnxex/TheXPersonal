@@ -200,6 +200,14 @@ Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 MaxPowerOutput | 175% | 250% | 325% | 475%
 OptimalWindSpeed | 110% | 120% | 130% | 150%
 
+<h3> Gyroscopes </h3>
+
+Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
+------------ | ------------- | ------------- | ------------- | -------------
+ForceMagnitude | 150% | 200% | 250% | 350%
+Power consumption (Increase) | 125% | 150% | 175% | 225%
+
+
 
 
 
