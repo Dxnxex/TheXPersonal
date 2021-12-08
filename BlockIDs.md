@@ -202,6 +202,7 @@ Example: (Sandbox_config.sbc)
 <br> LargeBlockLargeThrust_T4
 
 <br> IceCleaner_XP
+<br> Chemistry_XP
 
 <br> LargeBlockSolarPanel_XT1
 <br> LargeBlockSolarPanel_XT2
@@ -232,3 +233,38 @@ Example: (Sandbox_config.sbc)
 <br> SmallBlockLargeGenerator_XT2
 <br> SmallBlockLargeGenerator_XT3
 <br> SmallBlockLargeGenerator_XT4
+
+<br> LargeGatlingTurret_XT1
+<br> LargeGatlingTurret_XT2
+<br> LargeGatlingTurret_XT3
+<br> LargeGatlingTurret_XT4
+
+<br> SmallGatlingTurret_XT1
+<br> SmallGatlingTurret_XT2
+<br> SmallGatlingTurret_XT3
+<br> SmallGatlingTurret_XT4
+
+<br> LargeMissileTurret_XT1
+<br> LargeMissileTurret_XT2
+<br> LargeMissileTurret_XT3
+<br> LargeMissileTurret_XT4
+
+<br> SmallMissileTurret_XT1
+<br> SmallMissileTurret_XT2
+<br> SmallMissileTurret_XT3
+<br> SmallMissileTurret_XT4
+
+<br> SmallMissileTurret_XT1
+<br> SmallMissileTurret_XT2
+<br> SmallMissileTurret_XT3
+<br> SmallMissileTurret_XT3
+
+<br> LargeHydrogenEngine_XT1
+<br> LargeHydrogenEngine_XT2
+<br> LargeHydrogenEngine_XT3
+<br> LargeHydrogenEngine_XT4
+
+<br> SmallHydrogenEngine_XT1
+<br> SmallHydrogenEngine_XT2
+<br> SmallHydrogenEngine_XT3
+<br> SmallHydrogenEngine_XT4

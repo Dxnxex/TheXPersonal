@@ -150,6 +150,55 @@ Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
 MaxOutput | 130% | 160% | 190% | 250%
 
+<h3> Gatling Turret (This need to balance) </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
+------------ | ------------- | ------------- | ------------- | -------------
+Rate of Fire | 110% | 120% | 130% | 150%
+Reload Time (Decrease) | 110% | 120% | 130% | 150%
+Shots to Reload | 110% | 120% | 130% | 150%
+Projectile Speed | 110% | 120% | 130% | 150%
+Projectile Range | 110% | 120% | 130% | 150%
+Mass Damage | 110% | 120% | 130% | 150%
+Health Damage | 110% | 120% | 130% | 150%
+
+<h3> Missile Turret (This need to balance) </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
+------------ | ------------- | ------------- | ------------- | -------------
+Rate of Fire | 110% | 120% | 130% | 150%
+Reload Time (Decrease) | 110% | 120% | 130% | 150%
+Missile Speed | 110% | 120% | 130% | 150%
+Missile Range | 110% | 120% | 130% | 150%
+Explosion Radius | 110% | 120% | 130% | 150%
+Explosion Damage | 110% | 120% | 130% | 150%
+
+<h3> Interior Turret (This need to balance) </h3>
+
+Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
+------------ | ------------- | ------------- | ------------- | -------------
+Rate of Fire | 110% | 120% | 130% | 150%
+Projectile Speed | 110% | 120% | 130% | 150%
+Projectile Range | 110% | 120% | 130% | 150%
+Mass Damage | 110% | 120% | 130% | 150%
+Health Damage | 110% | 120% | 130% | 150%
+
+<h3> Hydrogen Engine </h3>
+Applies for both small and large block.
+
+Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
+------------ | ------------- | ------------- | ------------- | -------------
+MaxOutput | 180% | 260% | 340% | 500%
+FuelCapacity | 150% | 200% | 250% | 350%
+
+
+
+
+
+
+
 
 <h3> Dural Armor </h3>
 Very lightweight armor with very little durability, good for non combat ships.
