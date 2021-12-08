@@ -1,5 +1,5 @@
 # TheXPersonal
-Updated 11.05.2021
+Updated 8.12.2021
 <br> Mod what brings you tiered blocks to your game. Make things faster or more efficent than normal vanilla block, but for bigger component price, build times, power consumption, etc...
 
 <h3> O2/H2 Generator </h3>
@@ -192,6 +192,14 @@ Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
 MaxOutput | 180% | 260% | 340% | 500%
 FuelCapacity | 150% | 200% | 250% | 350%
+
+<h3> Wind Turbine </h3>
+
+Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
+------------ | ------------- | ------------- | ------------- | -------------
+MaxPowerOutput | 175% | 250% | 325% | 475%
+OptimalWindSpeed | 110% | 120% | 130% | 150%
+
 
 
 

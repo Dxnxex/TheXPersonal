@@ -1,5 +1,5 @@
 # TheXPersonal
-Updated 11.5.2021
+Updated 8.12.2021
 <br> This is list of IDs for your blocks limits. (Do not contain armor blocks)
 
 Example: (Sandbox_config.sbc)
@@ -268,3 +268,8 @@ Example: (Sandbox_config.sbc)
 <br> SmallHydrogenEngine_XT2
 <br> SmallHydrogenEngine_XT3
 <br> SmallHydrogenEngine_XT4
+
+<br> LargeBlockWindTurbine_XT1
+<br> LargeBlockWindTurbine_XT2
+<br> LargeBlockWindTurbine_XT3
+<br> LargeBlockWindTurbine_XT4
