@@ -283,3 +283,13 @@ Example: (Sandbox_config.sbc)
 <br> SmallBlockGyro_XT2
 <br> SmallBlockGyro_XT3
 <br> SmallBlockGyro_XT4
+
+<br> LargeBlockOxygenFarm_XT1
+<br> LargeBlockOxygenFarm_XT2
+<br> LargeBlockOxygenFarm_XT3
+<br> LargeBlockOxygenFarm_XT4
+
+<br> LargeJumpDrive_XT1
+<br> LargeJumpDrive_XT2
+<br> LargeJumpDrive_XT3
+<br> LargeJumpDrive_XT4
