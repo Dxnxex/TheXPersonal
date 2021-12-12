@@ -218,17 +218,9 @@ OxygenOutput | 200% | 300% | 400% | 600%
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
-OxygenOutput | 200% | 300% | 400% | 600%
-
-
-
-
-
-
-
-
-
-
+RequiredPowerInput | 110% | 120% | 130% | 150%
+PowerNeedForJump | 120% | 140% | 160% | 200%
+MaxJumpDistance | 130% | 160% | 190% | 250%
 
 <h3> Dural Armor </h3>
 Very lightweight armor with very little durability, good for non combat ships.
