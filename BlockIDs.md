@@ -293,3 +293,75 @@ Example: (Sandbox_config.sbc)
 <br> LargeJumpDrive_XT2
 <br> LargeJumpDrive_XT3
 <br> LargeJumpDrive_XT4
+
+<br> SmallBlockSmallHydrogenThrustIndustrial_XT1
+<br> SmallBlockSmallHydrogenThrustIndustrial_XT2
+<br> SmallBlockSmallHydrogenThrustIndustrial_XT3
+<br> SmallBlockSmallHydrogenThrustIndustrial_XT4
+
+<br> SmallBlockLargeHydrogenThrustIndustrial_XT1
+<br> SmallBlockLargeHydrogenThrustIndustrial_XT2
+<br> SmallBlockLargeHydrogenThrustIndustrial_XT3
+<br> SmallBlockLargeHydrogenThrustIndustrial_XT4
+
+<br> LargeBlockSmallHydrogenThrustIndustrial_XT1
+<br> LargeBlockSmallHydrogenThrustIndustrial_XT2
+<br> LargeBlockSmallHydrogenThrustIndustrial_XT3
+<br> LargeBlockSmallHydrogenThrustIndustrial_XT4
+
+<br> LargeBlockLargeHydrogenThrustIndustrial_XT1
+<br> LargeBlockLargeHydrogenThrustIndustrial_XT2
+<br> LargeBlockLargeHydrogenThrustIndustrial_XT3
+<br> LargeBlockLargeHydrogenThrustIndustrial_XT4
+
+<br> SmallBlockSmallAtmosphericThrustSciFi_XT1
+<br> SmallBlockSmallAtmosphericThrustSciFi_XT2
+<br> SmallBlockSmallAtmosphericThrustSciFi_XT3
+<br> SmallBlockSmallAtmosphericThrustSciFi_XT4
+
+<br> SmallBlockLargeAtmosphericThrustSciFi_XT1
+<br> SmallBlockLargeAtmosphericThrustSciFi_XT2
+<br> SmallBlockLargeAtmosphericThrustSciFi_XT3
+<br> SmallBlockLargeAtmosphericThrustSciFi_XT4
+
+<br> LargeBlockSmallAtmosphericThrustSciFi_XT1
+<br> LargeBlockSmallAtmosphericThrustSciFi_XT2
+<br> LargeBlockSmallAtmosphericThrustSciFi_XT3
+<br> LargeBlockSmallAtmosphericThrustSciFi_XT4
+
+<br> LargeBlockLargeAtmosphericThrustSciFi_XT1
+<br> LargeBlockLargeAtmosphericThrustSciFi_XT2
+<br> LargeBlockLargeAtmosphericThrustSciFi_XT3
+<br> LargeBlockLargeAtmosphericThrustSciFi_XT4
+
+<br> SmallBlockSmallThrustSciFi_XT1
+<br> SmallBlockSmallThrustSciFi_XT2
+<br> SmallBlockSmallThrustSciFi_XT3
+<br> SmallBlockSmallThrustSciFi_XT4
+
+<br> SmallBlockLargeThrustSciFi_XT1
+<br> SmallBlockLargeThrustSciFi_XT2
+<br> SmallBlockLargeThrustSciFi_XT3
+<br> SmallBlockLargeThrustSciFi_XT4
+
+<br> LargeBlockSmallThrustSciFi_XT1
+<br> LargeBlockSmallThrustSciFi_XT2
+<br> LargeBlockSmallThrustSciFi_XT3
+<br> LargeBlockSmallThrustSciFi_XT4
+
+<br> LargeBlockLargeThrustSciFi_XT1
+<br> LargeBlockLargeThrustSciFi_XT2
+<br> LargeBlockLargeThrustSciFi_XT3
+<br> LargeBlockLargeThrustSciFi_XT4
+
+<br> LargeAssembler_DLC_XT1
+<br> LargeAssembler_DLC_XT2
+<br> LargeAssembler_DLC_XT3
+<br> LargeAssembler_DLC_XT4
+
+<br> LargeRefineryIndustrial_XT1
+<br> LargeRefineryIndustrial_XT2
+<br> LargeRefineryIndustrial_XT3
+<br> LargeRefineryIndustrial_XT4
+
+
