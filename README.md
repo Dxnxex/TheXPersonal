@@ -41,7 +41,8 @@ Power consumption (Increase) | 150% | 200% | 250% | 350%
 OrePull | 200% | 300% | 400% | 600%
 
 <h3> Advanced Assembler  </h3>
-Including DLCs 
+Including DLCs
+ 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
 Speed | 140% | 180% | 220% | 300%
