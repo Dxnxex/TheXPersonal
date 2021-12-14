@@ -50,7 +50,7 @@ Inventory | 125% | 150% | 175% | 225%
 Power consumption (Increase) | 250% | 400% | 550% | 850%
 
 <h3> Advanced Refinery  </h3>
-Include DLCs
+Including DLCs
  
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
@@ -69,7 +69,7 @@ Drill radius | 125% | 150% | 175% | 225%
 
 <h3> Hydrogen Tank  </h3>
 Applies for both small and large block. 
-Include DLCs 
+Including DLCs 
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
@@ -85,7 +85,7 @@ Space | 140% | 180% | 220% | 300%
 
 <h3> Atmosferic thrusters  </h3>
 Applies for both small and large block. 
-Include DLCs 
+Including DLCs 
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
@@ -94,7 +94,7 @@ Power consumption (Increase) | 175% | 250% | 325% | 475%
 
 <h3> Hydrogen thrusters  </h3>
 Applies for both small and large block. 
-Include DLCs
+Including DLCs
  
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
@@ -103,7 +103,7 @@ Power consumption (Increase) | 125% | 150% | 175% | 225%
 
 <h3> Ion thrusters  </h3>
 Applies for both small and large block.
-Include DLCs 
+Including DLCs 
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
@@ -130,7 +130,7 @@ Power consumption (Increase) | 150% | 200% | 250% | 350%
 
 <h3> Cargo Storages </h3>
 Applies for both small and large block.
-Include DLCs 
+Including DLCs 
 
 Action | Tier 1 | Tier 2 | Tier 3 | Tier 4
 ------------ | ------------- | ------------- | ------------- | -------------
